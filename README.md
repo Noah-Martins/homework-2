@@ -37,13 +37,11 @@ Os parâmetros obtidos na Questão 1 e obrigatórios para as Questões 2, 3 e 4 
 
 ```text
 homework-2/
-├── README.md                        # Descrição do projeto, instruções e contribuições
-├── .gitignore                       # Arquivos temporários do R ignorados pelo Git
-├── docs/
-│   └── questao1_desenvolvimento.md  # Desenvolvimento teórico completo da Questão 1
+├── README.md          # Descrição do projeto, instruções e contribuições
+├── .gitignore         # Arquivos temporários do R ignorados pelo Git
 ├── scripts/
-│   └── questao1.R                   # Script R executável da Questão 1 (PMF, CDF, MLE)
-└── outputs/                         # Gráficos (PNG) e parâmetros exportados (CSV/RDS)
+│   └── questao1.R     # Script R executável da Questão 1 (PMF, CDF, MLE)
+└── outputs/           # Gráficos (PNG) e parâmetros exportados (CSV/RDS)
 ```
 
 ---
